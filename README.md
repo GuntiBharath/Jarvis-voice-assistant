@@ -2,6 +2,7 @@
 
 Jarvis Voice Assistant is a Python-based virtual desktop assistant inspired by the fictional AI from Iron Man. It can perform a wide range of tasks using voice commands, such as searching Wikipedia, playing music, opening websites, controlling applications, and more.
 
+
 ✨ Features
 ✅ Greet user based on time of day
 ✅ Wikipedia search with summaries
@@ -13,6 +14,7 @@ Jarvis Voice Assistant is a Python-based virtual desktop assistant inspired by t
 ✅ Play specific local movie files
 ✅ Voice interaction with natural English commands
 ✅ Extendable for new features and APIs
+
 
 📸 Demo
 Greet the user:
@@ -30,6 +32,7 @@ Open apps/sites:
 Shutdown/restart:
 “Shutdown”, “Restart”
 
+
 🛠️ Technologies & Libraries
 Python 3.8+
 
@@ -45,6 +48,7 @@ os — system-level commands
 
 datetime — time and date handling
 
+
 ⚙️ System Requirements
 OS: Windows 7 or above
 
@@ -57,6 +61,7 @@ Processor: Intel Dual Core or better
 Python: 3.8+
 
 Visual Studio Code or similar IDE
+
 
 🚀 Setup Instructions
 Clone the repository:
@@ -93,6 +98,7 @@ Play video Despacito	Search and play on YouTube
 Open Instagram	Open Instagram website
 Shutdown	Shut down the computer (after confirm)
 Restart	Restart the computer (after confirm)
+
 
 🌍 Future Scope
 Smart home integration (MQTT, IoT)
